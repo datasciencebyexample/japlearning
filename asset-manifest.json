@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/japlearning/static/css/main.a617e044.chunk.css",
+    "main.js": "/japlearning/static/js/main.465d0c3d.chunk.js",
+    "main.js.map": "/japlearning/static/js/main.465d0c3d.chunk.js.map",
+    "runtime-main.js": "/japlearning/static/js/runtime-main.fd6336fb.js",
+    "runtime-main.js.map": "/japlearning/static/js/runtime-main.fd6336fb.js.map",
+    "static/css/2.c283699b.chunk.css": "/japlearning/static/css/2.c283699b.chunk.css",
+    "static/js/2.998c22d5.chunk.js": "/japlearning/static/js/2.998c22d5.chunk.js",
+    "static/js/2.998c22d5.chunk.js.map": "/japlearning/static/js/2.998c22d5.chunk.js.map",
+    "static/js/3.341c1ab1.chunk.js": "/japlearning/static/js/3.341c1ab1.chunk.js",
+    "static/js/3.341c1ab1.chunk.js.map": "/japlearning/static/js/3.341c1ab1.chunk.js.map",
+    "index.html": "/japlearning/index.html",
+    "static/css/2.c283699b.chunk.css.map": "/japlearning/static/css/2.c283699b.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/japlearning/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.998c22d5.chunk.js.LICENSE.txt": "/japlearning/static/js/2.998c22d5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/japlearning/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd6336fb.js",
+    "static/css/2.c283699b.chunk.css",
+    "static/js/2.998c22d5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.465d0c3d.chunk.js"
+  ]
+}
